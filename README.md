@@ -1,5 +1,5 @@
 # Algoritmos e Estrutura de Dados
-Esse é meu repositório de estudo para algoritmos e estrutura de dado. Aqui você encontrara minhas anotações e exemplos sobre o tema.
+Esse é meu repositório de estudo para algoritmos e estrutura de dado. Aqui você encontrara minhas anotações e exemplos sobre o tema.</br>
 Utilizei como base de estudo o livro **Entendendo Algoritmos (Um guia ilustrado para programadores e outros curiosos)**
 
 # Capítulos
